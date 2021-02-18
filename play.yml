@@ -3,4 +3,4 @@
   hosts: web 
   tasks: 
      - name: Transfer the script 
-       command: service crond status
+       command: /etc/init.d/crond status
