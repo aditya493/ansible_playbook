@@ -1,2 +1,2 @@
 #!/bin/sh
-service cron status
+/etc/init.d/cron status
