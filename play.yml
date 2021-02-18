@@ -1,6 +1,5 @@
 --- 
-- name: Transfer and execute a script.
-  hosts: all 
+- name: Transfer and execute a script. 
   tasks: 
      - name: Transfer the script 
        command: service crond status
