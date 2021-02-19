@@ -1,2 +1,2 @@
- [web]
-52.66.113.211 ansible_ssh_port=22
+[web]
+52.66.113.211 ansible_ssh_port=41999
